@@ -1,5 +1,7 @@
+# Exno.6-Prompt-Engg
+## Date:
+## Register no: 212222230066
 # Aim:
-
 Development of a Python script compatible with multiple AI tools to benchmark and compare their outputs, and to generate actionable insights for informed tool selection.
 
 # Algorithm / Approach:
@@ -25,7 +27,7 @@ c. Gathers and stores responses in a structured format.
 d. Implements comparison logic (e.g., text similarity, sentiment, readability).
 e. Produces reports or visualizations for analysis.
 
-# Detailed Example: Comparing Summarization Capabilities of OpenAI GPT-4 and Cohere
+## Detailed Example: Comparing Summarization Capabilities of OpenAI GPT-4 and Cohere
 
 ## Step 1: Define Use Case
 We will compare how well OpenAI and Cohere summarize the same input text.
